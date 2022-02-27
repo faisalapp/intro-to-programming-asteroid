@@ -1,0 +1,129 @@
+body {
+    font-family: Papyrus;
+    background-color: FireBrick;
+    background-color: SlateGrey;
+  
+    padding: 5%;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  h3 {
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: Lavender;
+    background-color: Chocolate;
+    background-color: Silver;
+  
+    font-weight: bold;
+  }
+  
+  li {
+    list-style-type: circle;
+  }
+  
+  .tab {
+    padding: 15px;
+  }
+  
+  .header {
+    margin-left: 50%;
+  }
+  
+  nav a {
+    padding: 5px;
+    border: 1px solid;
+    background-color: LightSteelBlue;
+    color: black;
+    margin-top: 5px;
+    display: inline-block;
+  
+  }
+  
+  .checked {
+    color: orange;
+  }
+  
+  table td {
+    padding: 15px;
+    border: 2px solid;
+    background-color: #EBE6D7;
+  }
+  
+  .customMsg {
+    color: blue;
+    font-family: Verdana;
+  }
+  
+  .displayMsg {
+    color: blue;
+    font-family: Verdana;
+  }
+  
+  .error {
+    border: 3px solid;
+    border-color: red;
+  }
+  
+  .noerror {
+    border: 3px solid;
+    border-style: none;
+    border-color: black;
+  }
+  
+  #user-section-id {
+    border: solid;
+    border-spacing: 20px;
+    margin: 10px;
+    font-family: Verdana;
+  }
+  
+  #footerId {
+    margin: 2%;
+    padding: 5px;
+    background-color: DarkSalmon;
+    color: white;
+    padding-left: 10px;
+    font-family: Verdana;
+    align-items: center;
+    display: flex;
+    border: solid 2px;
+    flex-wrap:nowrap;
+  
+  }
+  
+  .button-class {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    align-items: center;
+  
+  
+  
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-gap: 10px;
+    padding: 10px;
+  }
+  
+  .grid-container div {
+    border: 3px solid MidnightBlue;
+    background: GoldenRod;
+    background: LightSteelBlue;
+  
+  }
+  
+  .wrapper {
+    display: inline-block;
+    align-items: center;
+  
+  
+  
+  }
+  
